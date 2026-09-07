@@ -4,7 +4,7 @@ local Config = {
     PlatoSecret     = "2605ebd3-2007-4382-8ea8-698a6267790c", 
 
     -- [2] Anti-Bypass / Global Secret Variable
-    Secret          = "Luis3216.@", 
+    Secret          = "luisito", 
     
     -- [3] Scripts & Links
     MainScriptURL   = "https://raw.githubusercontent.com/luis32405516-cmyk/-1-VENTILADOR-POR-FAMA/refs/heads/main/SCRIPT", 
